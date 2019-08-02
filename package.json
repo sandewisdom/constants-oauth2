@@ -1,0 +1,19 @@
+{
+  "name": "@sandewisdom/constants-oauth2",
+  "version": "1.0.1",
+  "description": "Constants in Sandewisdom projects about oauth2.",
+  "main": "srcindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandewisdom/constants-oauth2.git"
+  },
+  "author": "Rocky Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandewisdom/constants-oauth2/issues"
+  },
+  "homepage": "https://github.com/sandewisdom/constants-oauth2#readme"
+}
