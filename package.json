@@ -1,6 +1,6 @@
 {
   "name": "@sandewisdom/constants-oauth2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Constants in Sandewisdom projects about oauth2.",
   "main": "src/index.js",
   "scripts": {
